@@ -1,0 +1,83 @@
+header{
+    text-align: center;
+    padding: 10px;
+}
+header b{
+ text-shadow: 1px 1px 1px DarkOrange; 
+}
+
+
+h1{
+        color: black;   
+         border: 3px solid Black;
+        background-color: yellow;
+        margin: 20px;
+        padding: 3px;
+        text-align: center;
+        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    }
+  p{
+         background-color: Cyan;
+         text-align: center;
+         padding: 3px;
+         margin: 20px;
+         border: 3px dashed Black;
+    }
+    nav a{
+     font-size: 17px;
+     color: black;
+     text-decoration: none;
+     border-radius: 15px;
+     border: 3px dotted black;
+    text-align: center;
+    padding: 3px;
+    background-color: cyan;
+}
+nav{
+    padding: 20px;
+    text-align: right;
+}
+.kaka{
+    background-color: chartreuse;
+    border: 3px dotted  Black;
+    border-radius: 30px;
+    padding: 10px;
+    text-align: center;
+}
+main img{
+    background-color: Red;
+    padding: 10px;
+    border: 3px dotted  Black;
+    border-radius: 30px;
+    padding: 15px;
+}
+ul{
+        color: black;   
+         border: 3px solid Black;
+        background-color: cyan;
+        margin: 20px;
+        padding: 3px;
+        text-align: center;
+        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    }
+    li{
+        color: black;   
+background:  linear-gradient(#00D1FF, #70FF00);
+        margin: 60px;
+        text-align: center;
+        font-size: 40px ;
+        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    }
+    img{
+    background-color: orange;
+    padding: 10px;
+    width: 50px;
+    height: 55px;
+    padding: 15px;
+}
+footer{
+    background-color: orange;
+}
+body{
+    background:  linear-gradient(#71FF01, #09FFD3);
+}
